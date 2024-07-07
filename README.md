@@ -10,7 +10,7 @@ No matter whether Oleksii works with small single server application or complex 
 #### TECHNOLOGY SKILLS
 
 ##### Programming languages:
-Ruby. Also familiar a bitwith Javascript/jQuery, Golang, Elixir, HTML/CSS
+Ruby. Also familiar a bit with Javascript/jQuery, Golang, Elixir, HTML/CSS
 
 ##### Frameworks:
 Ruby on Rails, Active Admin, Trailblazer Operation, dry-rb Validations
