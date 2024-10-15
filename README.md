@@ -60,6 +60,7 @@ Master degree in Computer Science, IT systems engineer at Information Security
 
 #### Pet Projects
 
+- [KubeCake](https://github.com/suhovius/KubeCake) is a DevOps GitOps, Infrastucture AI driven code review app made as a task at the DevOps Course Hackathon.
 - [Caelus](https://github.com/suhovius/caelus) is a weather monitoring app. Main feature of this app is periodic collection of current weather data from the weather APIs and physical weather monitoring devices which should send their current weather data to the application backend periodically too. Later on at admin panel this data can be observed, analysed and processed for example for some weather research purposes.
 - [Transportation Task Solution](https://github.com/suhovius/transportation_task) Backend API for transportation task solution. Home task of the Golang Course.
 - [BallGame](https://suhovius.github.io/projects/ball_game/index.html) JavaScript Game In Canvas with ES6 Classes and Modules. With some physics. And WebAudio sounds.
