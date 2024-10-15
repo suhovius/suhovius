@@ -46,6 +46,10 @@ Master degree in Computer Science, IT systems engineer at Information Security
 
 2006 - 2011
 
+#### Certifications
+
+[DevOps and Kubernetes. Practical Intensive+](https://certs.prometheus.org.ua/downloads/6d21c0bd0f7e4fc5bafe5e2deb784795/Certificate.pdf)
+
 #### Contacts
  
 [Linkedin](https://www.linkedin.com/in/oleksii-sukhovii-63512747/)
